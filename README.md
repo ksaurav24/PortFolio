@@ -23,6 +23,9 @@ This portfolio is built using Bootstrap Made, a resourceful platform offering pr
 - Bootstrap: For the responsive front-end framework.
 - Font Awesome: For the icons used throughout the portfolio.
 
+# Preview:
+- You can view a preview of the site at https://main--sauravkportfolio.netlify.app/
+
 # License:
 This portfolio template is provided under the GNU GENERAL PUBLIC LICENSE. Please refer to the LICENSE file for more details.
 
